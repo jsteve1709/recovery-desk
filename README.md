@@ -61,4 +61,4 @@ I worked a version of this problem by hand. During my internship at an industria
 python recovery_desk.py
 ```
 
-*Built by Joshua Steve J (MBA, IIM Indore) with AI pair-programming, which is how I like to prototype: fast, then measured.*
+*Built by me (Joshua) with AI pair-programming, which is how I like to prototype: fast, then measured.*
